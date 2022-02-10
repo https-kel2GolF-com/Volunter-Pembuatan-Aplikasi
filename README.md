@@ -7,3 +7,4 @@ Jika Anda tertarik untuk menjadi Volunter. Silahkan lakukan PR(pull-request) pad
 Berikut daftar Voluter yang diterima :
 
   * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+  * Mohammad Haerul Anam, [anam.or.id](https://anam.or.id).
