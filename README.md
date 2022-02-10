@@ -4,6 +4,6 @@ Jika Anda tertarik untuk menjadi Volunter. Silahkan lakukan PR(pull-request) pad
 
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
 
-Berikut daftar Voluter yang diterima:
+Berikut daftar Voluter yang diterima :
 
-* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+  * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
