@@ -6,4 +6,4 @@ Jika Anda tertarik untuk menjadi Volunter. Silahkan lakukan PR(pull-request) pad
 
 Berikut daftar Voluter yang diterima:
 
-* Oon Ad=rfiandwi, [oo.or.id](https://oo.or.id).
+* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
